@@ -1,12 +1,8 @@
 ========================================================================
-    CONSOLE APPLICATION : SortingAlgorithms Project Overview
+                     SortingAlgorithms Project 
 ========================================================================
-
-AppWizard has created this SortingAlgorithms application for you.
-
 This file contains a summary of what you will find in each of the files that
 make up your SortingAlgorithms application.
-
 
 SortingAlgorithms.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
@@ -25,16 +21,12 @@ SortingAlgorithms.cpp
     This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
-Other standard files:
+Other files:
 
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named SortingAlgorithms.pch and a precompiled types file named StdAfx.obj.
-
+>libraries:
+    main.h, CTablica.h, exception.h,CSortTablicy.h, myArray.h 
+    
+>source files:
+    CTablica.cpp, exception.cpp, CSortTablicy.cpp, myarray.cpp
 /////////////////////////////////////////////////////////////////////////////
-Other notes:
 
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
-
-/////////////////////////////////////////////////////////////////////////////
