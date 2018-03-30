@@ -1,0 +1,6 @@
+﻿  Generator.cpp
+c:\users\bartek\documents\visual studio 2017\projects\generator\generator\generator.cpp(1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\bartek\documents\visual studio 2017\projects\generator\generator\library.cpp(1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\bartek\documents\visual studio 2017\projects\generator\generator\library.cpp(194): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+  Generator.vcxproj -> c:\users\bartek\documents\visual studio 2017\Projects\Generator\Debug\Generator.exe
+  Generator.vcxproj -> c:\users\bartek\documents\visual studio 2017\Projects\Generator\Debug\Generator.pdb (Partial PDB)
